@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BiteShare/static/css/main.f38a3276.css",
+    "main.js": "/BiteShare/static/js/main.fe3cfc22.js",
+    "index.html": "/BiteShare/index.html",
+    "main.f38a3276.css.map": "/BiteShare/static/css/main.f38a3276.css.map",
+    "main.fe3cfc22.js.map": "/BiteShare/static/js/main.fe3cfc22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.fe3cfc22.js"
+  ]
+}
